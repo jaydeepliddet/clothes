@@ -1,0 +1,42 @@
+.div1{
+  width: auto;
+  background-color: white;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 100px;
+}
+
+.div3{
+
+
+  margin: auto;
+  text-align: center;
+  /* display: inline; */
+}
+
+
+.b1{
+  /* margin-left: 5px; */
+  /* margin: auto; */
+  border-radius: 3em;
+  width:20px;
+  height: 20px;
+  margin-left: 10px;
+  border-style:inset;
+  border-width: 1px;
+
+
+  border-color: black;
+}
+
+.div2{
+  display:inline-flex;
+  flex-direction:row;
+
+  flex-wrap:wrap;
+  margin: auto;
+
+
+}
+
+
